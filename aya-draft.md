@@ -9,7 +9,7 @@
 
 ## Intro:
 
->> Facial recognition is a type of biometric technology that uses measurements of a person’s facial features to identify or verify their identity.
+>> Facial recognition AI is a technology that identifies people by analyzing their facial features. Governments around the world are increasingly using it for security and public safety, but its growing use has raised concerns about privacy, bias, and civil rights.
 
 ## Benefits: 
 
@@ -17,8 +17,11 @@
 - Improved public safety.
 - Identification of missing or vulnerable individuals.
 - Reduced workload for law enforcement.
+- Compared to manual identification, AI systems can scan thousands of faces in seconds
 
 >> Supporters argue that facial recognition can help law enforcement solve crimes faster and improve public safety. It can quickly compare faces against large databases and identify individuals in situations where traditional methods would take much longer.
+
+(While these benefits are significant, they also raise serious concerns) 
 
 ## Concerns and Current Events:
 
@@ -33,6 +36,7 @@ Canadian privacy regulators concluded that facial recognition company Clearview 
 - case 3: UK Police Concerns
 
 Some police agencies have paused or reviewed facial recognition deployments due to concerns about accuracy, bias, and oversight.
+In some reported cases, facial recognition systems gave high-confidence matches, but investigators later found that the individuals were not actually involved in the crime.
 
 ## Ethical and Software Development Perspective:
 
