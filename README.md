@@ -1,2 +1,9 @@
 # CEP146-Project-1
-Governments and Facial Recognition AI: Security Tool or Privacy Threat?
+Project Name : Governments and Facial Recognition AI: Security Tool or Privacy Threat?
+Team Member : Abhiv , Aya , Sephr
+Topic Summary :
+Youtube Video Link : 
+Discussion Question : 
+Refrences : 
+
+
