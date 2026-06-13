@@ -20,17 +20,17 @@
 
 >> Supporters argue that facial recognition can help law enforcement solve crimes faster and improve public safety. It can quickly compare faces against large databases and identify individuals in situations where traditional methods would take much longer.
 
-## concerns and Current Events:
+## Concerns and Current Events:
 
-- Case 1: Wrongful Arrests
+- case 1: Wrongful Arrests
 
 A recent lawsuit in Florida alleges that a man was wrongly arrested after facial recognition software incorrectly matched him to a suspect. Investigators allegedly relied too heavily on the AI result rather than verifying evidence.
 
-- Case 2: Canada and Clearview AI
+- case 2: Canada and Clearview AI
 
 Canadian privacy regulators concluded that facial recognition company Clearview AI engaged in illegal mass surveillance by collecting billions of photos without consent. Canadian authorities found the practice violated privacy laws.
 
-- Case 3: UK Police Concerns
+- case 3: UK Police Concerns
 
 Some police agencies have paused or reviewed facial recognition deployments due to concerns about accuracy, bias, and oversight.
 
