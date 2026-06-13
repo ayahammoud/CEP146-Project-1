@@ -47,7 +47,6 @@ As AI technologies continue to advance, software developers will play a critical
 In conclusion, facial recognition AI offers clear benefits for security, crime prevention, and public safety. It can help governments identify suspects, locate missing persons, and process information more efficiently than ever before.
 
 However, real-world cases have shown that concerns about privacy, surveillance, bias, and wrongful identification cannot be ignored.
-
 The challenge moving forward is finding the right balance between public safety and individual rights. The technology itself is not inherently good or bad—it is how governments choose to use it, regulate it, and oversee it that will determine its impact on society.
 
 ## Discussion Question
