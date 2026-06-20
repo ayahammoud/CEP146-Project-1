@@ -13,6 +13,6 @@ The project was completed through a collaborative effort, with all team members 
 2. Aya: Contributed to research, recording, content development, and repository management.
 3. Sephr: Contributed to research, recording, content development, and repository management.
 
-> (Youtube Video Link)[https://youtu.be/Zv_vhdksums]
+(Youtube Video Link)[https://youtu.be/Zv_vhdksums]
 
 
