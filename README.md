@@ -2,7 +2,7 @@
 
 ## Project title : Governments and Facial Recognition AI: Security Tool or Privacy Threat?
 
-**[Youtube Video Link](https://youtu.be/Zv_vhdksums)**
+### **[Youtube Video Link](https://youtu.be/Zv_vhdksums)**
 
 ### Team Members : Abhiv , Aya , Sephr
 
