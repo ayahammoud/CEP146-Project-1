@@ -2,6 +2,8 @@
 
 ## Project title : Governments and Facial Recognition AI: Security Tool or Privacy Threat?
 
+**[Youtube Video Link](https://youtu.be/Zv_vhdksums)**
+
 ### Team Members : Abhiv , Aya , Sephr
 
 ### - Topic Summary:
@@ -12,7 +14,3 @@ The project was completed through a collaborative effort, with all team members 
 1. Abhiv: Contributed to research, recording, and repository work. Edited the final video and uploaded it to YouTube.
 2. Aya: Contributed to research, recording, content development, and repository management.
 3. Sephr: Contributed to research, recording, content development, and repository management.
-
-(Youtube Video Link)[https://youtu.be/Zv_vhdksums]
-
-
