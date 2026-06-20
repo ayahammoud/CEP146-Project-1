@@ -2,7 +2,7 @@
 
 ## Project title : Governments and Facial Recognition AI: Security Tool or Privacy Threat?
 
-### > Team Members : Abhiv , Aya , Sephr
+### Team Members : Abhiv , Aya , Sephr
 
 ### - Topic Summary:
 This project explores the use of facial recognition technology by governments around the world. It examines the potential benefits of facial recognition for public safety and security, as well as the privacy concerns, ethical issues, and risks associated with widespread surveillance. The project discusses whether facial recognition AI serves as a valuable security tool or poses a significant threat to individual privacy rights.
