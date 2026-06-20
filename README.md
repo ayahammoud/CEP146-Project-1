@@ -7,8 +7,7 @@
 ### - Topic Summary:
 This project explores the use of facial recognition technology by governments around the world. It examines the potential benefits of facial recognition for public safety and security, as well as the privacy concerns, ethical issues, and risks associated with widespread surveillance. The project discusses whether facial recognition AI serves as a valuable security tool or poses a significant threat to individual privacy rights.
 
-### - Youtube Video Link :
-https://youtu.be/Zv_vhdksums
+### - (Youtube Video Link)[https://youtu.be/Zv_vhdksums]
 
 ### - Team Member Roles:
 The project was completed through a collaborative effort, with all team members participating throughout the development process.
